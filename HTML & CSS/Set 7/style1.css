@@ -1,0 +1,46 @@
+.p1{
+    border: 2px solid Tomato;
+    color: ivory;
+    background-color: brown;
+    font-family: "Arial Narrow";
+}
+
+.p2{
+    color: aqua;
+    font-family: "Britannic Bold";
+}
+
+#tittle1{
+    color: crimson;
+    font-family: "Arial";
+}
+
+.body1 {
+    background-color: bisque;
+}
+
+.div{
+    margin:1px;
+    margin-top: 5px;
+    height: 500px;
+    width:400px;
+    background-color: chocolate;
+    float: right;
+}
+.div2{
+    margin:1px;
+    margin-top: 5px;
+    height: 500px;
+    width:400px;
+    background-color: crimson;
+    float: left;
+}
+
+.div3{
+    margin:1px;
+    margin-top: 5px;
+    height: 200px;
+    width:100px;
+    background-color: greenyellow;
+    float: left;
+}
